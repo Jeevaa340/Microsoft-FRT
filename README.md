@@ -1,7 +1,7 @@
 
 ![sample_prediction](readme/sample_prediction.png)
 
-#  Image Segmentation Cardiac MRI's with Azure Machine Learning Service 
+#  Image Segmentation Cardiac MRI's 
 
 There are a variety of important image analysis deep learning applications that need to go beyond detecting individual objects within an image and instead segment the image into spatial regions of interest. For example, in medical imagery analysis it is often important to separate the pixels corresponding to different types of tissue, blood or abnormal cells so that we can isolate a particular organ. In this self-paced, hands-on lab we will use the [TensorFlow](https://www.tensorflow.org/) machine learning framework to train and evaluate an image segmentation network using a medical imagery dataset.
 
